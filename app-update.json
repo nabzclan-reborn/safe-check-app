@@ -1,18 +1,16 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "changelog": [
-        "Added new email verification feature",
-        "Improved UI performance",
-        "Fixed bugs and issues"
+        "Updated to API Aries new endpoints"
     ],
     "buttons": [
         {
             "title": "Install Signed version",
-            "url": "https://ipasharer.cococloud-signing.online/en/Ws1khwLJd3cSbjt"
+            "url": "https://ipasharer.cococloud-signing.online/onKiCo1dCR9oYTN"
         },
         {
             "title": "Download IPA File",
-            "url": "https://ipasharer.cococloud-signing.online/en/Ws1khwLJd3cSbjt"
+            "url": "https://github.com/nabzclan-reborn/safe-check-app/releases/tag/nabzclan"
         }
     ]
 }
