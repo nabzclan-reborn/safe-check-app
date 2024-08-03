@@ -5,12 +5,12 @@
     ],
     "buttons": [
         {
-            "title": "Install Signed version",
-            "url": "https://ipasharer.cococloud-signing.online/onKiCo1dCR9oYTN"
+            "title": "Install Signed version (CocoCloud IPA Sharer)",
+            "url": "https://ipasharer.cococloud-signing.online/G4XI7m7grTQGD2Z"
         },
         {
-            "title": "Download IPA File",
-            "url": "https://github.com/nabzclan-reborn/safe-check-app/releases/tag/nabzclan"
+            "title": "Download IPA File (Github)",
+            "url": "https://github.com/nabzclan-reborn/safe-check-app/releases/tag/1.2"
         }
     ]
 }
