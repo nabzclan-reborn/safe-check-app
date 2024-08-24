@@ -16,7 +16,7 @@
             "name": "Safe checker app",
             "bundleIdentifier": "nabzclan.safe-checker",
             "developerName": "Nabzclan Team",
-            "filename": "safe.checker-v1.2-nabzclan.vip.ipa",
+            "filename": "safe.checker-v1.3-nabzclan.vip.ipa",
             "skipPrerelease": false,
             "subtitle": "",
             "localizedDescription": "",
@@ -38,7 +38,7 @@
                 }
             ],
             "downloadURL": "https://github.com/nabzclan-reborn/safe-check-app/releases/download/1.2/safe.checker-v1.2-nabzclan.vip.ipa",
-            "size": "368 KB"
+            "size": "367 KB"
         }
     ],
     "news": [
