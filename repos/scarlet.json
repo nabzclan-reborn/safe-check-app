@@ -1,0 +1,18 @@
+{
+	"META": {
+		"repoName": "safe checker app - Repo",
+		"repoIcon": "https://nabzclan-reborn.github.io/safe-check-app/icon-safeappchecker-nabzclan-vip.png"
+	},
+	"Tweaked": [{
+		"name": "Safe Checker app",
+		"version": "1.2",
+		"down": "https://github.com/nabzclan-reborn/safe-check-app/releases/download/1.2/safe.checker-v1.2-nabzclan.vip.ipa",
+		"category": "safe app check",
+		"description": "",
+		"bundleID": "nabzclan.safe-checker",
+		"contact": {
+			"web": "https://github.com/nabzclan-reborn/safe-check-app",
+			"twitter": "https://x.com/nabzclan_reborn"
+		}
+	},
+}
