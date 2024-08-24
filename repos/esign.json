@@ -1,0 +1,56 @@
+{
+    "name": "Safe checker app - Repo",
+    "identifier": "com.nabzclan.safe-checker.repo",
+    "subtitle": "Safe checker app - Repo",
+    "description": "Safe checker app - Repo",
+    "iconURL": "https://nabzclan-reborn.github.io/safe-check-app/icon-safeappchecker-nabzclan-vip.png",
+    "headerURL": "https://nabzclan-reborn.github.io/safe-check-app/icon-safeappchecker-nabzclan-vip.png",
+    "website": "https://nabzclan.vip/",
+    "tintColor": "#F54F32",
+    "featuredApps": [
+        "nabzclan.safe-checker"
+    ],
+    "apps": [
+        {
+            "id": "Safe Checker app",
+            "name": "Safe checker app",
+            "bundleIdentifier": "nabzclan.safe-checker",
+            "developerName": "Nabzclan Team",
+            "filename": "safe.checker-v1.2-nabzclan.vip.ipa",
+            "skipPrerelease": false,
+            "subtitle": "",
+            "localizedDescription": "",
+            "iconURL": "https://nabzclan-reborn.github.io/safe-check-app/icon-safeappchecker-nabzclan-vip.png",
+            "tintColor": "FFC300",
+            "screenshotURLs": [
+                "https://apps.nabzclan.vip/screenshots/"
+            ],
+            "version": "1.2",
+            "category": "Nabzclan",
+            "versionDate": "2024-07-21 02:34:34",
+            "versionDescription": "",
+            "information": [
+                {
+                    "item": "Safe Checker app",
+                    "version": "1.2",
+                    "authors": "Nabzclan Team",
+                    "url": "https://github.com/nabzclan-reborn/safe-check-app"
+                }
+            ],
+            "downloadURL": "https://github.com/nabzclan-reborn/safe-check-app/releases/download/1.2/safe.checker-v1.2-nabzclan.vip.ipa",
+            "size": "131.14 B"
+        }
+    ],
+    "news": [
+        {
+            "title": "Welcome to Safe checker app - Repo",
+            "identifier": "com.nabzclan.safe-checker.repo",
+            "caption": "Tap to open website",
+            "tintColor": "5bbad5",
+            "imageURL": "https://nabzclan-reborn.github.io/safe-check-app/icon-safeappchecker-nabzclan-vip.png",
+            "url": "https://github.com/nabzclan-reborn/safe-check-app",
+            "date": "2023-01-01",
+            "notify": true
+        }
+    ]
+}
