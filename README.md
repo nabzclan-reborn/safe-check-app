@@ -5,7 +5,7 @@
 ## Installation
 
 - [Cococloud - IPA Sharer](https://ipasharer.cococloud-signing.online/CWqA1aHlJYGLTI8) - (Signed latest certificate)
-- [eSign Repo](https://nabzclan-reborn.github.io/safe-check-app/repos/esign.json)
+- [Nabzclan - IPA Library](https://apps.nabzclan.vip/apps/safe-checker-app)
 - [Scarlet Repo](https://nabzclan-reborn.github.io/safe-check-app/repos/scarlet.json)
 - [IPA File](https://github.com/nabzclan-reborn/safe-check-app/releases/)
 
