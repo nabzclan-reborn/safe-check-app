@@ -6,12 +6,8 @@
     ],
     "buttons": [
         {
-            "title": "Install Signed version (CocoCloud IPA Sharer)",
-            "url": "https://ipasharer.cococloud-signing.online/CWqA1aHlJYGLTI8"
-        },
-        {
-            "title": "Download IPA File",
-            "url": "https://apps.nabzclan.vip/download/503"
+            "title": "Install Signed version (NabzClan - IPA Library)",
+            "url": "https://apps.nabzclan.vip/apps/safe-checker-app"
         }
     ]
 }
